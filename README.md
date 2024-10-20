@@ -13,10 +13,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on an internal project  
+- 🔭 I’m currently working on stream processings
   
 
-- 🌱 I’m currently learning Angular  
+- 🌱 I’m currently learning Java  
   
 
 - ❓ Ask me about anything related to logging stacks and cyber security  
